@@ -2,6 +2,7 @@
 - 👀 I’m interested in gaming, coding and sudoku.
 - 🌱 I’m currently learning python, and a bit basics around html, css and other coding language.
 - 💞️ I’m looking to collaborate on easy projects if needed, as I'm still learning.
+- I love Kaizers Orchestra. I will say no more.
 - 📫 How to reach me: coming soon.
 
 <!---
